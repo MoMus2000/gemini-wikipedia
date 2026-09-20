@@ -1,0 +1,115 @@
+{
+    "Airport Movement Area Safety System": {
+        "Base": [
+            "The Airport Movement Area Safety System (AMASS) visually and aurally prompts tower controllers to respond to situations which potentially compromise safety. AMASS is an add-on enhancement to the host Airport Surface Detection Equipment Model 3 (ASDE-3) radar that provides automated aural alerts to potential runway incursions and other hazards. AMASS extends the capability of the ASDE-3 and enhances surface movement safety.",
+            "The system operates with ground and approach sensor systems to ascertain aircraft locations in approaching and ground movement situations. It uses airport radars, state-of-the-art signal processing, and advanced computer technology to improve airport safety.",
+            "In this program, 40 systems were to be delivered to the Federal Aviation Administration. AMASS is manufactured by Northrop Grumman Corporation.",
+            "Pittsburgh International Airport was chosen by the FAA for the first installation of the system starting on February 14, 1990, and being completed by October of that year.  Part of the administration's decision was because the tallest FAA owned control tower (at 220 feet) was in Pittsburgh. By the 4th quarter of 1992 the AMASS system had been installed at such fields as San Francisco International Airport. However, the program came in for increasing criticism for being over-budget and behind schedule, with not a single unit being operational by the deadline (for installing 40 units) of August 2000. Software development issues and system adoption were mentioned as the key issues with the system. Finally, the first operational AMASS system was commissioned at San Francisco International Airport on June 18, 2001.  By December 2003 all 40 systems were commissioned by the Federal Aviation Administration.",
+            "AMASS was demonstrated to work as designed in the near-collision of SkyWest Airlines Flight 5741 and Republic Airlines Flight 4912, when it alerted the ATC 15 seconds prior to the estimated impact."
+        ]
+    },
+    "Airport Surface Detection Equipment": {
+        "Base": [
+            "Airport Surface Detection Equipment, Model X, or ASDE-X, is a runway-safety tool that enables air traffic controllers to detect potential runway conflicts by providing detailed coverage of movement on runways and taxiways. By collecting data from a variety of sources, ASDE-X is able to track vehicles and aircraft on airport surfaces and obtain identification information from aircraft transponders."
+        ],
+        "List of airports": [
+            "Airports with ASDE-X installed as of October 9, 2020:",
+            "Baltimore/Washington International Thurgood Marshall Airport (Baltimore, MD)",
+            "Boston Logan International Airport (Boston, MA)",
+            "Bradley International Airport (Hartford, CT)",
+            "Charlotte Douglas International Airport (Charlotte, NC)",
+            "Chicago Midway Airport (Chicago, IL)",
+            "Chicago O\u2019Hare International Airport (Chicago, IL)",
+            "Dallas-Ft. Worth International Airport (Dallas, TX)",
+            "Denver International Airport (Denver, CO)",
+            "Detroit Metro Wayne County Airport (Detroit, MI)",
+            "Ft. Lauderdale/Hollywood Airport (Ft. Lauderdale, FL)",
+            "Milwaukee Mitchell International Airport (Milwaukee, WI)",
+            "George Bush Intercontinental Airport (Houston, TX)",
+            "Harry Reid International Airport (Las Vegas, NV)",
+            "Hartsfield-Jackson Atlanta International Airport (Atlanta, GA)",
+            "Honolulu International Airport / Hickam Air Force Base (Honolulu, HI)",
+            "John F. Kennedy International Airport (New York, NY)",
+            "John Wayne-Orange County Airport (Santa Ana, CA)",
+            "Lambert-St. Louis International Airport (St. Louis, MO)",
+            "LaGuardia Airport (New York, NY)",
+            "Los Angeles International Airport (Los Angeles, CA)",
+            "Louisville International Airport-Standiford Field (Louisville, KY)",
+            "Memphis International Airport (Memphis, TN)",
+            "Miami International Airport (Miami, FL)",
+            "Minneapolis St. Paul International Airport (Minneapolis, MN)",
+            "Newark International Airport (Newark, NJ)",
+            "Orlando International Airport (Orlando, FL)",
+            "Philadelphia International Airport (Philadelphia, PA)",
+            "Phoenix Sky Harbor International Airport (Phoenix, AZ)",
+            "Ronald Reagan Washington National Airport (Arlington, VA)",
+            "Salt Lake City International Airport (Salt Lake City, UT)",
+            "San Diego International Airport (San Diego, CA)",
+            "Seattle-Tacoma International Airport (Seattle, WA)",
+            "Rhode Island T. F. Green International Airport (Warwick, RI)",
+            "Washington Dulles International Airport (Chantilly, VA)",
+            "William P. Hobby Airport (Houston, TX)"
+        ],
+        "Operation": [
+            "Originally the FAA installed thirty-eight ASDE-3A radar systems at the United States' busiest airports. The cost-effective alternative to the ASDE-3/AMASS capability, referred to as ASDE-X, is one of the first new runway safety program technologies aimed at improving ATCS situational awareness by providing tools to supplement their tasks (McAnulty, Doros, & Poston, 2001). The data that ASDE-X uses comes from a surface movement radar located on the airport traffic control tower or remote tower, multilateration sensors, ADS-B (Automatic Dependent Surveillance-Broadcast) sensors, terminal radars, the terminal automation system, and from aircraft transponders. By fusing the data from these sources, ASDE-X is able to determine the position and identification of aircraft and vehicles on the airport surfaces, as well as of aircraft flying within 5 miles (8 km) of the airport (selectively up to 60 nmi).",
+            "Controllers in the tower see this information presented as a color display of aircraft and vehicle positions overlaid on a map of the airport's runways/taxiways and approach corridors. The system essentially creates a continuously updated map of all airport-surface operations that controllers can use to spot potential collisions.",
+            "Consisting largely of commercial off-the-shelf products, ASDE-X was designed as a solution for the smaller of the top-tier airports, and is especially helpful to controllers at night or in bad weather when visibility is poor. The Federal Aviation Administration has also begun the process of deployment of visual and audio alarms, known as Safety Logic, that will assist ASDE-X by alerting controllers to possible collisions or runway incursions.",
+            "Pilots normally activate the aircraft transponder just prior to take off, then return it to standby or off after landing. When ASDE-X is available at an airport, that fact will be included in the recorded ATIS (Automatic Terminal Information Service) to indicate to the pilot that the transponder should be left on while maneuvering on the ground.",
+            "The first ASDE-X was activated for operational use and testing at Milwaukee Mitchell International Airport in Milwaukee, Wisconsin, in June 2003, and declared ready for national deployment in October 2003."
+        ]
+    },
+    "Airport Surface Surveillance Capability": {
+        "Base": [
+            "Airport Surface Surveillance Capability (ASSC) is a runway-safety tool that displays aircraft and ground vehicles on the airport surface, as well as aircraft on approach and departure paths within a few miles of the airport. The tool allows air traffic controllers and air crew in cockpits equipped with Automatic Dependent Surveillance-Broadcast (ADS-B) to detect potential runway conflicts by providing detailed coverage of movement on runways and taxiways. By collecting and fusing data from a variety of sources, ASSC is able to track vehicles and aircraft on airport surfaces and obtain identification information from aircraft ADS-B transponders.",
+            "ASSC provides similar capabilities and displays as ASDE-X, as both systems provide real-time tracking information of ground movements using the same set of instruments. San Francisco International Airport was the first domestic airport to implement ASSC in October 2016."
+        ],
+        "List of airports": [
+            "Nine sites have installed ASSC as of May 2024, under a five-year contract awarded to Saab Sensis Corporation in early 2012:",
+            "San Francisco International Airport (SFO / San Francisco, CA)",
+            "Cleveland Hopkins International Airport (CLE / Cleveland, OH)",
+            "Kansas City International Airport (MCI / Kansas City, MO)",
+            "Cincinnati/Northern Kentucky International Airport (CVG / Cincinnati, OH)",
+            "Portland International Airport (PDX / Portland, OR)",
+            "Louis Armstrong New Orleans International Airport (MSY / New Orleans, LA)",
+            "Pittsburgh International Airport (PIT / Pittsburgh, PA)",
+            "Andrews Field (ADW / Camp Springs, MD)",
+            "Ted Stevens Anchorage International Airport (ANC / Anchorage, AK)"
+        ],
+        "Operation": [
+            "Like ASDE-X, ASSC receives inputs from a variety of sensors, including:",
+            "ASDE-3 Surface movement radar",
+            "Remote multilateration units",
+            "ADS-B",
+            "Airport surveillance radar/Mode-S",
+            "Terminal automation for flight plan data",
+            "After the inputs are collected, the ASSC controller performs automated conflict detecting and alerting using the same human-machine interface as implemented in the 35 ASDE-X sites. ASSC is part of ADS-B, which is one of the key elements of the Federal Aviation Administration (FAA) Next Generation Air Transportation System implementation.",
+            "The nine ASSC sites used the Airport Surface Detection Equipment, Model 3 radar (ASDE-3) to provide Airport Movement Area Safety System (AMASS). The similar ASDE-X program also used ASDE-3 radar, but the primary difference between ASSC and ASDE-X is that ASSC does not require ASDE-3 input."
+        ]
+    },
+    "External links": {
+        "Base": [
+            "Johnson, Terrence (30 September 2010). \"Airport Surface Surveillance Capability (ASSC) System Industry Day\". Federal Aviation Administration. Archived from the original on 2 August 2017. Retrieved 2 August 2017.   PPT",
+            "ASDE-X Fact Sheet by the Federal Aviation Administration, dated March 2, 2007.",
+            "Electronic Eyes Improve Runway Safety by the Federal Aviation Administration's Air Traffic Organization (FAA ATO), dated Nov. 16, 2007.",
+            "FAA Deploys System To Prevent Airport Runway Collisions, from The Washington Post",
+            "ASDE-X In Use At Washington Dulles from AviationNews.net, dated April 8, 2008.",
+            "ASDE-X: Coming To An Airport Near You To Squawk Or Not To Squawk, That Is The Question from National Business Aviation Association March 28, 2004 [1]",
+            "McAnulty, D.M., Koros, A., & Poston, A. (2001). Airport surface detection equipment - Model X early user involvement event. (FAA Publication # ACT5302001-2a). Atlantic City International, NJ: Federal Aviation Administration. [2]",
+            "Runway incursion incident at Charlotte Douglas International Airport on May 29, 2010 where ASDE-X gave an alert"
+        ]
+    },
+    "Opening": {
+        "Introduction": [
+            "Airport surveillance and broadcast systems are a set of runway-safety tools that display aircraft on and near an airport. The United States National Transportation Safety Board recommends installation at all major airports as soon as possible, as the technology prevents collisions."
+        ]
+    },
+    "References": {
+        "Base": []
+    },
+    "See also": {
+        "Base": [
+            "Air traffic control"
+        ]
+    },
+    "Title": "Amasra"
+}

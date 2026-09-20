@@ -1,0 +1,108 @@
+{
+    "Biography": {
+        "Base": [
+            "Gupta earned his B.Sc. with first-class honors from the University of London  in 1969. He then attended the University of Pittsburgh where he received his M.A. (1973) and Ph.D. (1977).",
+            "Gupta has taught at several universities: McGill University  (1975-1982), University of Illinois at Chicago  (1982-1989), Indiana University  (1989-2000). In 2001 Gupta joined the Department of Philosophy at the University of Pittsburgh where he served as Distinguished Professor of Philosophy and, since 2013, as Alan Ross Anderson Chair. He is married to Mukta and he has two children, Daniel and Donna."
+        ]
+    },
+    "External links": {
+        "Base": [
+            "Gupta's personal website",
+            "Gupta's profile at the University of Pittsburgh",
+            "Gupta's profile on Philpapers.org",
+            "Stanford Encyclopedia of Philosophy entry on the Revision Theory of Truth",
+            "Notre Dame Philosophical Reviews entry on Empiricism and Experience",
+            "Notre Dame Philosophical Reviews entry on Truth, Meaning, Experience",
+            "Interview with 3:AM Magazine"
+        ]
+    },
+    "Further reading": {
+        "Base": [
+            "Kapitan, T. (1984). Review of The Logic of Common Nouns: An Investigation in Quantified Modal Logic. No\u00fbs 18: 166\u2013173.",
+            "Kremer, P. (1993). The Gupta-Belnap systems S* and S# are not axiomatisable. Notre Dame Journal of Formal Logic 34: 583\u2013596.",
+            "McGee, V. (1996). Review of The Revision Theory of Truth. Philosophy and Phenomenological Research 56: 727\u2013730.",
+            "Antonelli, G.A. (1996).  What's in a Function?. Synthese 107: 167\u2013204.",
+            "Orillia, F. (2000). Meaning and Circular Definitions. Journal of Philosophical Logic 29: 155\u2013169.",
+            "L\u00f6we, B. & Welch, P.D. (2001). Set-Theoretic Absoluteness and the Revision Theory of Truth. Studia Logica 68: 21\u201341.",
+            "Welch, P.D. (2001). On Gupta-Belnap Revision Theories of Truth, Kripkean Fixed Points, and the Next Stable Set. Bulletin of Symbolic Logic 7: 345\u2013360.",
+            "K\u00fchnberger, K. et al. (2005). Comparing Inductive and Circular Definitions. Studia Logica 81: 79\u201398.",
+            "Mart\u00ednez-Fern\u00e1ndez, J. (2007). Maximal Three-Valued Clones with the Gupta-Belnap Fixed-Point Property. Notre Dame Journal of Formal Logic 48: 449\u2013472.",
+            "McDowell, J. (2009). The Given in Experience: Comment on Gupta. Philosophy and Phenomenological Research 79: 468\u2013474.",
+            "Peacocke, C. (2009). Perception, Content and Rationality. Philosophy and Phenomenological Research 79: 475\u2013481.",
+            "Neta, R. (2009). Empiricism about Experience. Philosophy and Phenomenological Research 79: 482\u2013489.",
+            "Schafer, K. (2011). The Rationalism in Anil Gupta's Empiricism and Experience. Philosophical Studies 152: 1\u201315.",
+            "Berker, S. (2011). Gupta's Gambit. Philosophical Studies 152: 17\u201339.",
+            "Ray, N. (2012). Ordinary Empirical Judgments and our Scientific Knowledge: An Extension of Reformed Empiricism to the Philosophy of Science  Electronic Thesis and Dissertation Repository. Paper 580."
+        ]
+    },
+    "Honors and awards": {
+        "Base": [
+            "A.C.L.S. Fellowship, 1988\u201389; 2003\u20132004",
+            "N.E.H. Fellowship for University Teachers, 1988\u20131989; 2003\u20132004; 2010",
+            "Fellow, Center for Advanced Study in the Behavioral Sciences, Stanford University, 1998\u20131999",
+            "Fellow, American Academy of Arts and Sciences",
+            "Recipient, 225th Anniversary Medallion of the University of Pittsburgh, 2013",
+            "Simon Lectures, University of Toronto, 2007",
+            "Whitehead Lectures, Harvard University, 2012"
+        ]
+    },
+    "Opening": {
+        "Introduction": [
+            "Anil K. Gupta (; born 1949) is an Indian-American philosopher who works primarily in logic, epistemology, philosophy of language, and metaphysics. Gupta is the Alan Ross Anderson Distinguished Professor of Philosophy at the University of Pittsburgh. He is also a Fellow of the American Academy of Arts and Sciences. His most recent book, The Concept of Truth: The Israel Lectures, was published by Oxford University Press in January 2026."
+        ]
+    },
+    "References": {
+        "Base": []
+    },
+    "Reformed empiricism": {
+        "Base": [
+            "In Empiricism and Experience, Gupta proposes a novel empiricist account of the logical relation between perceptual experience and knowledge.",
+            "The problem Gupta addresses is that of explaining the role of experience in making our views and, in particular, perceptual judgments rational. Gupta's proposal is that the given in experience is hypothetical. Rather than providing perceptual judgments with categorical rationality, experience confers on these judgments a conditional rationality. A perceptual experience, according to Gupta, makes a subject's judgment rational if the subject's antecedent view is rational. An antecedent view is the collection of beliefs, conceptions, and concepts that the subject of an experience brings to bear on the experience.",
+            "Gupta uses the notion of the hypothetical given to build a reformed empiricism. He argues that this empiricism has significant advantages over the traditional versions of the view. Among other features, Gupta's empiricism does not require the acceptance of an anti-realism about commonsense and theoretical objects, and it does not rely on the analytic\u2013synthetic distinction to do any substantive work. Finally, Gupta argues that his reformed empiricism incorporates plausible components of both foundationalism and coherentism.",
+            "In Conscious Experience: A Logical Inquiry, Gupta enriches reformed empiricism with an account of empirical dialectic. This account includes an explanation of (1) how empirical reasoning can force a radical transformation of view and (2) how experience contributes to the content of empirical concepts. The latter, which is based on a theory of ostensive definitions, provides a demarcation of legitimate empirical critiques of concepts.",
+            "In The Concept of Truth, Gupta shows that the traditional empiricist hostility toward metaphysics is unwarranted and rests on an erroneous conception of phenomenon. Reformed empiricism, he argues, provides a better account of phenomenon, one that allows us to see the metaphysical appearance\u2013reality distinction as cognitively significant."
+        ]
+    },
+    "Revision theory": {
+        "Base": [
+            "Gupta developed an early version of the revision theory of truth. Later he generalized this to a theory of circular and interdependent definitions. This work was further developed, resulting in the book, The Revision Theory of Truth, co-written with Nuel Belnap.",
+            "The revision theory is a semantic theory of truth that combines an unrestricted truth predicate with classical logic.",
+            "Revision theory takes truth to be a circular concept, defined by the Tarski biconditionals,",
+            "'A' is true if and only if A,",
+            "and interprets it in a new way. Rather than interpret the truth predicate via a single extension, as is done with non-circular predicates, revision theory interprets it via a revision process. The revision process is a collection of revision sequences that result when arbitrary hypotheses concerning the interpretation of truth are revised using a rule provided by the Tarski biconditionals. In the revision process, problematic sentences such as the Liar (\u201cthis very sentence is not true\u201d) do not settle on a definite truth value. Remarkably, however, ordinary unproblematic sentences do receive a definite truth value. If problematic types of cross-reference are eliminated from the language, then the revision process converges to a fixed point.",
+            "In The Concept of Truth, Gupta argues that only revision theory succeeds in preserving",
+            "ordinary functions that the truth concept serves in our thinking.",
+            "Gupta has applied revision theory to rational choice in game theory, building on the work of Andr\u00e9 Chapuis.",
+            "Gupta has recently applied the informal ideas of revision theory to problems arising in the philosophy of perception."
+        ]
+    },
+    "See also": {
+        "Base": [
+            "Modal logic",
+            "Revision theory",
+            "Philosophical logic",
+            "Philosophy of perception",
+            "Truth"
+        ]
+    },
+    "Select publications": {
+        "Base": [
+            "Modal Logic and Truth (1978). Journal of Philosophical Logic 7 (1):441\u2013472.",
+            "The Logic of Common Nouns: An Investigation in Quantified Modal Logic (1980). Yale University Press.",
+            "Truth and Paradox (1982). Journal of Philosophical Logic 11: 1-60.",
+            "The Meaning of Truth (1987). In Ernest Lepore (ed.), New Directions in Semantics. Academic Press 453\u2013480.",
+            "Remarks on Definitions and the Concept of Truth (1988). Proceedings of the Aristotelian Society 89:227\u2013246.",
+            "The Revision Theory of Truth (written with Nuel Belnap) (1993). MIT Press.",
+            "Minimalism (1993). Philosophical Perspectives 7: 359\u2013369",
+            "Empiricism and Experience (2006). Oxford University Press.",
+            "Equivalence, Reliability, and Convergence: Replies to McDowell, Peacocke, and Neta (2009). Philosophy and Phenomenological Research 79: 490\u2013508.",
+            "Truth, Meaning, Experience (2011). Oxford University Press.",
+            "An Account of Conscious Experience (2012). Analytic Philosophy 53: 1-29.",
+            "The Relationship of Experience to Thought (2013). The Monist 96 (2):252-294.",
+            "Conditionals in Theories of Truth (2017) (written with Shawn Standefer), Journal of Philosophical Logic 46: 27-63.",
+            "Conscious Experience: A Logical Inquiry (2019). Harvard University Press.",
+            "The Concept of Truth: The Israel Lectures (2026). Oxford University Press."
+        ]
+    },
+    "Title": "Anil Gupta (philosopher)"
+}

@@ -1,0 +1,29 @@
+{
+    "Adoptation": {
+        "Base": [
+            "According to Dover, Adoptation is an evolved feature of an organism that contributes to its viability and reproduction (established by molecular drive) and that adopts some previously inaccessible component of the environment."
+        ]
+    },
+    "Discussion": {
+        "Base": [
+            "However, little is known about the evolutionary nature of the process or its overall significance. Some authors suggest that,  in simple terms, molecular drive is merely a relic form of natural selection\u2014or more precisely, it is selection, only described in the language of molecular biology, for example: the most stable or most efficiently replicating nucleotide sequence will be favored as a template. In a world before individuals, even before the genetic code, evolution could operate almost entirely through this process, which can be described in no other way than as natural selection. The only complication is that natural selection, as we usually define it, was formulated in the context of individuals."
+        ]
+    },
+    "Opening": {
+        "Introduction": [
+            "Molecular drive is a term coined by Gabriel Dover in 1982 to describe evolutionary processes that change the genetic composition of a population through DNA turnover mechanisms. Molecular drive operates independently of natural selection and genetic drift.",
+            "The best-known such process is the concerted evolution of genes present in many tandem copies, such as those for ribosomal RNAs or silk moth egg shell chorion proteins, in sexually reproducing species. The concept has been proposed to extend to the diversification of multigene families. The mechanisms involved include gene conversion, unequal crossing-over, transposition, slippage replication and RNA-mediated exchanges. Because mutations changing the sequence of one copy are less common than deletions, duplications and replacement of one copy by another, the copies gradually come to resemble each other much more than they would if they had been evolving independently.",
+            "Concerted evolution can be unbiased, in which case every version has an equal probability of being the one that replaces the others.  However, if the molecular events have any bias favouring one version of the sequence over others, that version will dominate the process and eventually replace the others.  The name 'molecular drive' reflects the similarity of the process with what was originally the better-known process of meiotic drive.",
+            "Molecular drive can also act in bacteria, where parasexual processes such as natural transformation cause DNA turnover."
+        ]
+    },
+    "References": {
+        "Base": []
+    },
+    "TRAM": {
+        "Base": [
+            "According to Dover, TRAM is a genetic system that has features of non-mendelian inheritance Turnover, copy number and functional Redundancy And Modulatory. To date all regulatory regions (promoters) and genes that have been examined in detail at the molecular level, have TRAM characteristics. As such, part of their evolutionary history will have been influenced by the molecular drive process."
+        ]
+    },
+    "Title": "Adaptation"
+}
