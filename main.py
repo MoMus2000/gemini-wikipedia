@@ -6,7 +6,7 @@ import wikipedia
 
 wikipedia.set_user_agent("Archival-Attempt/1.0 (I will not abuse, thank you !)")
 
-queue = ["Baruch Spinoza"]
+queue = ["Aristotle"]
 seen = set()
 
 def scrape(link: str):
@@ -37,6 +37,10 @@ def scrape(link: str):
             current_sub_heading = heading
             parser[current_heading][current_sub_heading] = []
         else:
+            sub_sub_heading = r"^=* (.*?) =*$"
+            sub_sub_match = re.match(sub_sub_heading, line.strip())
+            if sub_sub_match:
+                line = sub_sub_match.group(1) + ":"
             parser[current_heading][current_sub_heading].append(line)
 
     with open(f"data/{link}.json", "w") as output:
